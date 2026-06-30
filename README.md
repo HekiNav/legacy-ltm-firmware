@@ -1,5 +1,5 @@
 # Old live train map firmware & server 
-Still supported, but only for [Helsinki LTM](https://github.com/HekiNav/helsinki-live-train-map).
+Still supported, but only for [Helsinki LTM](https://github.com/HekiNav/helsinki-live-train-map). The new firmware is located at [HekiNav/ltm-firmware](https://github.com/HekiNav/ltm-firmware)
 
 ## Firmware
 
